@@ -97,3 +97,4 @@ While recognizing the dignity of Ian Alexander's performance and the narrative v
 *The Last of Us Part II* cannot be classified cleanly as an uncompromised feminist triumph or a reactionary exploitation of marginalized trauma. Its true significance lies in its refusal to offer sanitized, idealized representation.
 
 By allowing female characters to be simultaneously loving, muscular, brutal, grieving, and profoundly flawed, the game grants women the **full, messy spectrum of human moral complexity**. Similarly, while Lev's narrative arc is burdened by disproportionate tragedy and moral service, his presence permanently shatters the cis-heteronormative assumptions of the post-apocalyptic genre. The game demonstrates that in the ruins of civilization, gender and sexuality are not erased; rather, the struggle for bodily autonomy, queer intimacy, and self-definition becomes the ultimate frontier of human survival.
+

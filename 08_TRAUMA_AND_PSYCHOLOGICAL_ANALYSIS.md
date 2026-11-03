@@ -129,3 +129,4 @@ In the epilogue, Ellie returns to the empty farmhouse. Dina and JJ are gone; the
 - When Ellie attempts to play "Future Days," she discovers that because Abby bit off two of her fingers (the pinky and ring finger of her left hand) during their struggle, **she can no longer press the frets to form the chords**.
 - The physical cost of revenge is permanently etched into her flesh. She has sacrificed the very bodily capability that allowed her to commune musically with Joel.
 - In placing the guitar against the window frame and walking out into the sunlit meadow, Ellie finally completes the work of mourning. She abandons the material relic of her lost father, stepping away from the cemetery of her past and entering the open, terrifying terrain of an unscripted future.
+

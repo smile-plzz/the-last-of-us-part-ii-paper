@@ -86,3 +86,4 @@ This reality creates a profound **ethical paradox** at the heart of the game:
 > *How can a cultural artifact that preaches the sacred value of human empathy, warns against the catastrophic obsession of a single goal, and critiques the blind sacrifice of human life be forged through a corporate labor system that demanded the ruthless, obsessive self-sacrifice of its own creators?*
 
 The brilliance of *The Last of Us Part II* must therefore always be read alongside its human cost. It stands as both a monumental artistic achievement in interactive storytelling and an urgent indictment of the unsustainable, exploitative labor practices that continue to plague the AAA video game industry.
+

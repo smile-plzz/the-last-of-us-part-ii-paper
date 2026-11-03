@@ -151,3 +151,4 @@ This annotated bibliography compiles 38 verified academic publications, foundati
 ### 4.2. King, D. (2020)
 - **Citation:** King, D. (2020, June 17). *The Last of Us Part II* and its crisis-strewn path to release. *WIRED*. https://www.wired.com/story/last-of-us-part-ii-sequel-release-pandemic/
 - **Relevance:** Chronicles the unprecedented challenges surrounding the game’s release: the massive April 2020 plot leaks, severe developer and actor harassment, pandemic-induced delays, and the resulting internet culture war.
+

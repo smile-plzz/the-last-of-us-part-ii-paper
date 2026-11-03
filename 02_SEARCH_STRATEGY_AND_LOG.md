@@ -70,3 +70,4 @@ Every bibliographic entry has been cross-referenced against official publishers 
 2. Accurate author attribution and publication dates.
 3. Separation of empirical participant findings (e.g., Erb et al.'s N=12 cohort; Anderson's N=9 cohort) from generalized player claims.
 4. No synthetic, hallucinated, or placeholder references.
+

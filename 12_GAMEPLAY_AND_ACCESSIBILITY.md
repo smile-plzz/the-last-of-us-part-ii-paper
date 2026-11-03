@@ -115,3 +115,4 @@ However, Larreina-Morales notes that certain limitations persist:
 
 ### Conclusion: Inclusive Narrative Art
 Ultimately, Naughty Dog’s technical architecture—spanning Motion Matching, affective facial animation, spatial acoustics, and universal accessibility—demonstrates that high technical fidelity is most potent when placed in service of **human emotional communication**. By engineering a game that can be perceived, felt, and completed by players of all sensory and motor abilities, *The Last of Us Part II* establishes that mature, uncompromising artistic storytelling belongs to everyone.
+

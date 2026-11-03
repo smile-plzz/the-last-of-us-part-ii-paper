@@ -112,3 +112,4 @@ Critics and skeptical scholars (Park, 2021; Erb et al., 2021) point out that the
 
 ### Synthesis: The Imperfect Mirror
 Ultimately, *The Last of Us Part II* succeeds not because it forces every player to love Abby, but because it exposes the **contingency and fragility of moral righteousness**. By demonstrating that every character is both the hero of their own survival story and the monstrous antagonist of someone else’s, the game transforms interactive perspective from a vehicle of escapist power into an instrument of profound moral self-interrogation.
+

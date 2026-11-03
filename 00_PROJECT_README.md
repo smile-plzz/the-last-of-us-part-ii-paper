@@ -44,3 +44,4 @@
 ## Procedural Deviations & Environment Declarations
 - **Pandoc / Tectonic:** Not installed on the host operating system. Markdown is maintained as the pristine primary academic format, alongside an integrated Python-based verification harness (`verify_manuscript.py`) checking word count, heading hierarchy, and citation alignment.
 - **Human Checkpoints:** Performed within the agentic workflow under the `/goal` long-running autonomous directive, maintaining auditable self-reflection and rigorous integrity gates at Stage 2.5 and Stage 4.5.
+

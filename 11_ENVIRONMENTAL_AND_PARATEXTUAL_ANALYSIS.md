@@ -99,3 +99,4 @@ Beyond macro-factions, the game’s world is saturated with dozens of self-conta
 The physical world of *The Last of Us Part II* does not serve as a passive backdrop for protagonist action; it acts as an **active moral witness**. 
 
 Nature is shown vigorously reclaiming the crumbling concrete monuments of human arrogance: moss blankets luxury shopping centers, ferns crack through paved highways, and water lilies bloom in flooded streets. The ruins of Seattle demonstrate that nature is completely indifferent to the ideological wars of human beings. By placing the petty, vindictive bloodletting of the WLF, Seraphites, Ellie, and Abby within this vast, reclaimed landscape, the environmental design silently conveys the ultimate tragedy of their struggle: **human beings tearing each other to pieces over historical grievances in a world that has already moved on without them**.
+

@@ -45,3 +45,4 @@ def analyze_manuscript(filepath):
 
 if __name__ == '__main__':
     analyze_manuscript("C:/Users/ismai/.gemini/antigravity/scratch/research/the-last-of-us-part-ii/14_FULL_RESEARCH_PAPER.md")
+

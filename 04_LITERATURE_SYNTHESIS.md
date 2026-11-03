@@ -73,3 +73,4 @@ Specifically, existing scholarship has failed to comprehensively model:
 3. How **queer intimacy and trans representation** simultaneously challenge gaming conventions while remaining entangled with the mechanics of suffering and retributive violence.
 
 This research project resolves this gap by providing an exhaustive, 17-section integrated academic paper that bridges ludology, narratology, moral philosophy, trauma studies, and production ethics into a singular, cohesive theoretical architecture.
+

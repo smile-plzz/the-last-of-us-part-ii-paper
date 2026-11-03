@@ -72,3 +72,4 @@ However, this design generates a structural paradox:
 - **Secondary Object:** *The Last of Us Part II Remastered* (2024 PS5 release) for audio commentary and Lost Levels.
 - **Contextual Anchors:** *The Last of Us* (2013) for Joel and Ellie's foundation. The HBO television series is excluded except where strictly necessary for comparative reception context.
 - **Epistemological Posture:** Strict separation between developer intention (Druckmann, Gross), narrative textual evidence, published empirical data, and critical interpretation.
+

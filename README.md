@@ -42,3 +42,4 @@ To verify the manuscript word count and citation integrity:
 ```powershell
 python verify_manuscript.py
 ```
+

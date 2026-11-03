@@ -108,3 +108,4 @@ However, there is an inherent danger in this design. Across 25 to 30 hours of co
 
 ### Conclusion: The Forced Mirror
 Ultimately, *The Last of Us Part II* uses interactive violence not to celebrate lethality, but to make the player feel the physical and emotional exhaustion of the cycle of violence. By the time Ellie and Abby collapse in the shallow surf of Santa Barbara—emaciated, weeping, bleeding, and mutilated—the player does not want to win. The player wants the controller to stop vibrating. The victory of *The Last of Us Part II* lies in achieving the rarest feat in interactive entertainment: **making the player genuinely, desperately want to lay down their weapons and stop playing**.
+

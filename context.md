@@ -33,3 +33,4 @@
 - Clear demarcation between developer intent, text-internal evidence, empirical player studies, and researcher hermeneutics.
 - Rigorous adherence to the 7-mode AI failure audit (Lu 2026): M1 (self-review bugs), M2 (hallucinated citations), M3 (hallucinated data), M4 (shortcut reliance), M5 (bug reframed as insight), M6 (methodology fabrication), M7 (early frame-lock).
 - Addressing 3 mandatory counterarguments during peer review.
+
