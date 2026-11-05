@@ -1,8 +1,9 @@
 # Playing Both Sides of Revenge: Perspective, Trauma, Empathy, and Moral Agency in *The Last of Us Part II*
 
-**Lead Academic Research Agent & Game Studies Architect**  
-*Department of Game Studies and Digital Humanities*  
-*Interdisciplinary Research Collective on Interactive Media & Moral Psychology*  
+**Author:** Md. Ismail Hossain  
+**Affiliation:** Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh  
+**Email:** [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)  
+**Profile & Links:** [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)  
 
 ---
 

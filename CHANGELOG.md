@@ -8,6 +8,11 @@ All notable changes to the *The Last of Us Part II* academic research project ar
 - Baseline infrastructure inspection (`academic-research-skills` v3.24.1, commit `2e02041a3b821a160d98c9398f173c484ac759a8`).
 - Core tracking files: `README.md`, `context.md`, `dev-log.md`, `CHANGELOG.md`.
 
+## [1.1.0] - 2026-11-06
+### Added / Changed
+- Updated proper author attribution to Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University) across README.md, 00_PROJECT_README.md, 14_FULL_RESEARCH_PAPER.md, context.md.
+- Added comprehensive author contact links (LinkedIn, GitHub, Facebook, Email, Portfolio).
+
 ## [1.0.0] - 2026-11-03
 ### Added
 - Completed Stage 1 deliverables: `00_PROJECT_README.md`, `01_RESEARCH_BRIEF.md`, `02_SEARCH_STRATEGY_AND_LOG.md`, `03_ANNOTATED_BIBLIOGRAPHY.md` (38 verified entries), `04_LITERATURE_SYNTHESIS.md`, `references.bib`.

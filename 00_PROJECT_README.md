@@ -5,7 +5,7 @@
 
 ## Status & Metadata
 - **Current Pipeline Stage:** Full Execution (Stages 1 through 6)
-- **Primary Investigator:** Lead Academic Research Agent & Game Studies Architect
+- **Primary Investigator / Author:** Md. Ismail Hossain ([GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/))
 - **Methodological Framework:** Interpretive Interdisciplinary Qualitative Case Study
 - **Pipeline Tooling:** `academic-research-skills` (ARS v3.24.1)
   - Upstream Commit: `2e02041a3b821a160d98c9398f173c484ac759a8`

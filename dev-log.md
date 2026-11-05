@@ -20,3 +20,8 @@
 - Stage 3: Simulated 5-seat peer review panel (`15_PEER_REVIEW.md`) including Journal-Fit, Methodology, Ludology, Interdisciplinary, and Devil's Advocate Reviewers with 3 mandatory counterarguments.
 - Stage 4 & 3' & 4.5: Executed point-by-point author rebuttal, delta report, and R&R traceability matrix (`16_REVISION_AND_INTEGRITY_REPORT.md`); Stage 4.5 final integrity certified PASS with zero defects.
 - Stage 5 & 6: Generated publication-ready exports (`references.bib`), process record (`17_PROCESS_RECORD.md`), and executed manuscript verification tests.
+
+## 2026-11-06 — Author Attribution & Profile Integration
+- Replaced generic research agent placeholders with authentic author details for Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University).
+- Integrated contact information and profile links (LinkedIn, GitHub, Facebook, Email, Portfolio).
+- Verified manuscript integrity via verify_manuscript.py.

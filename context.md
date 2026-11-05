@@ -2,6 +2,8 @@
 
 ## 1. Project Identity
 - **Project Name:** The Last of Us Part II Academic Research Project
+- **Primary Investigator / Author:** Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University, Dhaka, Bangladesh)
+- **Author Contact:** ismailhossain013@gmail.com | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)
 - **Primary Domain:** Game Studies / Narrative Studies / Interactive Media Psychology
 - **Target Manuscript Length:** 8,000–10,000 words (excluding references, abstract, and appendices)
 - **Citation Format:** APA 7th Edition
